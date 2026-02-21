@@ -1,0 +1,9 @@
+# Kimi-Mem 依赖
+# 安装: pip install -r requirements.txt
+
+# 核心依赖
+mcp>=1.0.0
+
+# 可选：向量搜索（未来扩展）
+# chromadb>=0.4.0
+# sentence-transformers>=2.2.0
